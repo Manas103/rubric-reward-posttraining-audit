@@ -1,0 +1,1966 @@
+{
+  "split": "no_regression_holdout",
+  "adapter": "none",
+  "weights_file": "default",
+  "n": 150,
+  "mean_rubric_score": 79.83333333333333,
+  "verifier_accuracy_pct": 74.0,
+  "criterion_satisfaction_pct": {
+    "has_answer_marker": 92.66666666666667,
+    "sentence_limit": 48.666666666666664,
+    "mentions_noun": 100.0,
+    "word_limit": 78.0
+  },
+  "items": [
+    {
+      "id": 360,
+      "answer": 25,
+      "completion": "Priya starts with 159 stickers. She receives 56 more, so she has 215 stickers. After giving away 64, she has 151 stickers left. She splits these evenly among herself and 5 friends, so each person gets 151 / 6 = 25 stickers (remainder 1). Priya ends up with 25 stickers. Answer: 25.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 361,
+      "answer": 448,
+      "completion": "Dev buys 18 bags, each holding 24 books, so that's 18 * 24 = 432 books. Adding the 24 loose books, he has 432 + 24 = 456 books. After throwing out the 8 damaged books, he is left with 456 - 8 = 448 books. Answer: 448.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 362,
+      "answer": 57,
+      "completion": "When 469 stickers are split evenly among 7 people, each person initially gets 469 / 7 = 67 stickers. After giving away 15 stickers, they have 67 - 15 = 52 stickers left. Later, they receive a bonus of 5 more stickers, making their total 52 + 5 = 57 stickers. Answer: 57.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 363,
+      "answer": 76,
+      "completion": "Priya starts with 188 beads. She receives 51 more beads, making her total 239 beads. After giving away 10 beads, she has 229 beads left. She then splits these 229 beads evenly among herself and 2 friends, so each person gets 229/3 = 76 beads. Answer: 76 beads.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 364,
+      "answer": 586,
+      "completion": "Dev buys 13 bags * 44 balloons/bag = 572 balloons. Adding the 21 loose balloons, Dev has 572 + 21 = 593 balloons. After throwing out 7 damaged balloons, Dev has 593 - 7 = 586 balloons left. Answer: 586.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 365,
+      "answer": 71,
+      "completion": "Each person gets 335 / 5 = 67 apples initially. After giving away 21 apples, they have 67 - 21 = 46 apples. Adding the 25 bonus apples, the person ends up with 46 + 25 = 71 apples. Answer: 71.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 366,
+      "answer": 12,
+      "completion": "Priya starts with 59 cookies. After receiving 72 more from a friend, she has 59 + 72 = 131 cookies. After giving away 59 cookies, she has 131 - 59 = 72 cookies left. She splits these evenly among herself and 5 friends, so each person gets 72 / 6 = 12 cookies. Answer: 12.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 367,
+      "answer": 507,
+      "completion": "Each bag contains 37 apples. Dev buys 13 bags, so that's 13 * 37 apples. Additionally, Dev finds 38 loose apples. After throwing out 12 damaged apples, the total number of apples Dev has is 13 * 37 + 38 - 12 apples. Answer: 519.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 368,
+      "answer": 21,
+      "completion": "First, divide the 111 coins among 3 people. Each person gets 37 coins. Then, one person gives away 32 coins, leaving them with 37 - 32 = 5 coins. Later, they receive a bonus of 16 coins, increasing their total to 5 + 16 = 21 coins. Answer: 21.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 369,
+      "answer": 89,
+      "completion": "Priya starts with 185 stickers. She receives 29 more, making 214 stickers. She then gives away 35, leaving her with 179 stickers. Finally, she splits these evenly among herself and 1 friend, giving each 89 stickers. Priya ends up with 89 stickers. Answer: 89.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 370,
+      "answer": 251,
+      "completion": "Dev buys 11 bags, each holding 23 balloons, so initially there are 11 * 23 = 253 balloons. Adding the 21 loose balloons gives 253 + 21 = 274 balloons. After throwing out the 23 damaged balloons, Dev has 274 - 23 = 251 balloons left. Answer: 251.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 371,
+      "answer": 50,
+      "completion": "First, divide the total number of balloons evenly among 8 people. Each person gets 392 balloons / 8 = 49 balloons. Then, one person gives away 16 balloons, leaving them with 49 - 16 = 33 balloons. Later, they receive a bonus of 17 more balloons, so the total becomes 33 + 17 = 50 balloons. Answer: 50.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 372,
+      "answer": 23,
+      "completion": "Priya starts with 148 pencils. She receives 32 more, so she has 180 pencils. Then she gives away 39, leaving her with 141 pencils. She splits these evenly among herself and 5 friends, so each person gets 141 divided by 6, which is 23.5 pencils. Since you can't split pencils into half, she keeps 23 pencils for herself and 24 for each friend, totaling 47 pencils. Answer: 47.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 373,
+      "answer": 494,
+      "completion": "Each bag holds 34 pencils, so 14 bags contain 14 * 34 = 476 pencils. Adding the 23 loose pencils and subtracting the 5 damaged ones, Dev has a total of 476 + 23 - 5 = 494 pencils. Answer: 494.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 374,
+      "answer": 73,
+      "completion": "When 354 stamps are split evenly among 6 people, each person initially gets 354/6 = 59 stamps. If one person gives away 11 stamps, they end up with 59 - 11 = 48 stamps. Later, they receive a bonus of 25 more stamps, so they end up with 48 + 25 = 73 stamps. Answer: 73.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 375,
+      "answer": 26,
+      "completion": "Priya starts with 136 coins. She receives 23 more, making 159 coins. Then she gives away 55, leaving her with 104 coins. Finally, she splits these evenly among herself and 3 friends, giving each person 34 coins. Answer: 34.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 376,
+      "answer": 207,
+      "completion": "Dev buys 8 bags of cookies, each holding 24 cookies, so he has 8 * 24 = 192 cookies from the bags. He also finds 29 loose cookies. Adding the 29 loose cookies to the 192 from the bags gives 192 + 29 = 221 cookies. However, 14 of the cookies are damaged and thrown out, so we subtract those from the total: 221 - 14 = 207 cookies. Answer: 207.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 377,
+      "answer": 50,
+      "completion": "Each person initially gets 138/3 = 46 cookies. After giving away 10 cookies, they have 46 - 10 = 36 cookies. Then, receiving a bonus of 14 more cookies, they end up with 36 + 14 = 50 cookies. Answer: 50.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 378,
+      "answer": 44,
+      "completion": "Priya starts with 92 marbles. After her friend gives her 32 more, she has 92 + 32 = 124 marbles. She then gives away 35, leaving her with 124 - 35 = 89 marbles. Finally, she splits these 89 marbles evenly between herself and one friend, giving each 89 / 2 = 44.5 marbles. Since she can't split marbles into halves in this context, she gives each 44 marbles, and",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 379,
+      "answer": 593,
+      "completion": "Dev buys 17 bags, each containing 34 cards, so that's 17 * 34 cards. Additionally, Dev finds 27 loose cards and ends up with 27 - 12 = 15 usable cards. Adding these together, Dev has a total of 17 * 34 + 27 - 12 cards. Answer: 605.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 380,
+      "answer": 22,
+      "completion": "Each person initially gets 240 books / 6 = 40 books. After giving away 31 books, they have 40 - 31 = 9 books left. Then, they receive a bonus of 13 more books, making their total 9 + 13 = 22 books. Answer: 22 books.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 381,
+      "answer": 50,
+      "completion": "Priya starts with 188 cards. She receives 56 more, making 244 cards. Then she gives away 41 cards, leaving her with 203 cards. She splits these evenly among herself and 3 friends, so each person gets 203 / 4 = 50.75 cards. Since cards can't be split, she keeps 203 cards and gives 50 cards to each friend, keeping 5 cards for herself. Answer: 5 cards.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 382,
+      "answer": 531,
+      "completion": "Dev buys 13 bags, each containing 41 books, so there are 13 * 41 = 533 books from the bags. Adding the 9 loose books, we get 533 + 9 = 542 books. After throwing out the 11 damaged books, the total number of books Dev has is 542 - 11 = 531 books. Answer: 531.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 383,
+      "answer": 45,
+      "completion": "When 414 tickets are split evenly among 6 people, each person gets 414 / 6 = 69 tickets. After giving away 48 tickets, that person has 69 - 48 = 21 tickets left. Later, with a bonus of 24 more tickets, this person ends up with 21 + 24 = 45 tickets. Answer: 45.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 384,
+      "answer": 26,
+      "completion": "Priya starts with 200 tickets. She receives 23 more from a friend, making her total 223 tickets. She then gives away 64 tickets, leaving her with 160 tickets. Finally, she splits these evenly among herself and 5 friends, so each person gets 160 / 6 = 26.67 tickets. Since tickets can't be divided, she ends up with 26 tickets. Answer: 26.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 385,
+      "answer": 809,
+      "completion": "Dev initially has 38 beads per bag and buys 21 bags, totaling 38 * 21 = 798 beads. Adding the 36 loose beads found, Dev has 798 + 36 = 834 beads. However, 25 beads are damaged and thrown out, so the total number of beads Dev has is 834 - 25 = 809 beads. Answer: 809.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 386,
+      "answer": 32,
+      "completion": "Each person initially gets 140 balloons / 7 people = 20 balloons. After giving away 5 balloons, they have 20 - 5 = 15 balloons. Later, they receive a bonus of 17 balloons, making their total 15 + 17 = 32 balloons. Answer: 32.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 387,
+      "answer": 25,
+      "completion": "Priya starts with 73 balloons. Her friend gives her 58 more, making 73 + 58 = 131 balloons. Then she gives away 29, leaving 131 - 29 = 102 balloons. She splits these evenly among herself and 3 friends, giving each person 102 / 4 = 25.5 balloons. Since you can't have half a balloon, she ends up with 25 balloons each, totaling 25 * 4 = 100 balloons. Answer",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 388,
+      "answer": 1004,
+      "completion": "Dev buys 25 bags of balloons, each holding 40 balloons, which totals 1000 balloons. Additionally, he finds 7 loose balloons. However, 3 of these balloons are damaged and thrown out. So, the total number of balloons Dev has is 1000 (from bags) + 7 (found) - 3 (damaged) = 1004 balloons. Answer: 1004.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 389,
+      "answer": 30,
+      "completion": "First, we divide 120 marbles evenly among 5 people, giving each person 24 marbles. One person then gives away 6 marbles, leaving them with 24 - 6 = 18 marbles. Later, they receive a bonus of 12 more marbles, bringing their total to 18 + 12 = 30 marbles. Answer: 30 marbles.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 390,
+      "answer": 28,
+      "completion": "Priya starts with 43 coins. She receives 70 more coins from a friend, making her total 43 + 70 = 113 coins. She then gives away 57 coins, leaving her with 113 - 57 = 56 coins. She splits these evenly with 1 friend, so each gets 56 / 2 = 28 coins. Priya ends up with 28 coins. Answer: 28.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 391,
+      "answer": 391,
+      "completion": "Dev buys 27 bags, each holding 14 tickets. Therefore, the number of tickets from the bags is \\(27 \\times 14\\). Adding the 18 loose tickets and then subtracting the 5 damaged tickets, we get the total number of tickets Dev has. The total number of tickets is \\(27 \\times 14 + 18 - 5\\). Answer: 421.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 392,
+      "answer": 26,
+      "completion": "First, 342 books are split evenly among 6 people, so each person gets 342 / 6 = 57 books. One person gives away 36 books, so they have 57 - 36 = 21 books. Later, they receive a bonus of 5 books, so they end up with 21 + 5 = 26 books. Answer: 26 books.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 393,
+      "answer": 70,
+      "completion": "Priya starts with 138 balloons. She receives 30 more from a friend, making her total 168 balloons. After giving away 28, she has 140 balloons left. She then splits these evenly among herself and one friend, so each gets 70 balloons. Answer: 70.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 394,
+      "answer": 368,
+      "completion": "Dev buys 9 bags, each holding 39 balloons, so initially he has 9 * 39 = 351 balloons. Then he finds 29 loose balloons, bringing his total to 351 + 29 = 380 balloons. However, 12 of the balloons are damaged and thrown out, so the total number of balloons Dev has is 380 - 12 = 368 balloons. Answer: 368.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 395,
+      "answer": 20,
+      "completion": "Initially, 264 cards are divided among 8 people, so each person starts with \\( \\frac{264}{8} = 33 \\) cards. One person then gives away 25 cards, leaving them with \\( 33 - 25 = 8 \\) cards. Later, they receive a bonus of 12 more cards, so the final number of cards they have is \\( 8 + 12 = 20 \\). Answer: 20 cards.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 396,
+      "answer": 30,
+      "completion": "Priya starts with 102 stickers. Her friend gives her 89 more, making 191 stickers. She then gives away 70, leaving her with 121 stickers. She splits these evenly among herself and 3 friends, so each person gets 40 stickers. Priya ends up with 40 stickers. Answer: 40.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 397,
+      "answer": 581,
+      "completion": "Dev buys 16 bags, each containing 37 stickers. This gives 16 * 37 stickers from the bags. Adding the 5 loose stickers, we get 16 * 37 + 5 stickers. Then, throwing out the 16 damaged stickers, the total number of stickers Dev has is 16 * 37 + 5 - 16. Answer: 541.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 398,
+      "answer": 51,
+      "completion": "First, we calculate how many tickets each person initially gets by dividing the total tickets by the number of people: 258 \u00f7 6 = 43 tickets per person. Then, one person gives away 13 tickets, reducing their total to 43 - 13 = 30 tickets. Finally, this person receives a bonus of 21 more tickets, bringing their total to 30 + 21 = 51 tickets. Answer: 51.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 399,
+      "answer": 47,
+      "completion": "Priya starts with 75 coins. After receiving 30 more, she has 75 + 30 = 105 coins. Then, she gives away 10 coins, leaving her with 105 - 10 = 95 coins. Finally, she splits these evenly with her friend, so each gets 95 / 2 = 47.5 coins. Answer: 47.5 coins.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 400,
+      "answer": 1209,
+      "completion": "Dev buys 30 bags, each containing 40 pencils, resulting in 30 * 40 = 1200 pencils. Adding the 18 loose pencils found, Dev has 1200 + 18 = 1218 pencils. Subtracting the 9 damaged pencils, Dev ends up with 1218 - 9 = 1209 pencils. Answer: 1209.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 401,
+      "answer": 16,
+      "completion": "First, we calculate the number of pencils each person receives when the box of 330 pencils is split evenly among 5 people. Each person gets \\( \\frac{330}{5} = 66 \\) pencils. One person then gives away 60 pencils, so they have \\( 66 - 60 = 6 \\) pencils left. Later, this person receives a bonus of 10 more pencils, making the total \\( 6 + 10 = 16 \\) pencils. Therefore, the person ends up with 16",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 402,
+      "answer": 51,
+      "completion": "Priya starts with 43 stamps. After her friend gives her 82 more, she has 125 stamps. She then gives away 23 stamps, leaving her with 102 stamps. She splits these evenly among herself and 1 friend, so each person gets 51 stamps. Answer: 51.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 403,
+      "answer": 625,
+      "completion": "Dev buys 29 bags, each containing 21 beads, resulting in 29 * 21 beads from the bags. Adding the 19 loose beads, we get 29 * 21 + 19 beads. Then, we subtract the 3 damaged beads, leaving us with 29 * 21 + 19 - 3 beads. Answer: 676 beads.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 404,
+      "answer": 50,
+      "completion": "To solve this, first divide 413 by 7 to find out how many cookies each person gets initially. Each person gets 59 cookies. Then, that person gives away 17 cookies, resulting in 42 cookies. Later, they receive 8 more, making their total 50 cookies. Answer: 50.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 405,
+      "answer": 33,
+      "completion": "Priya starts with 65 pencils. She receives 57 more, making it 122 pencils. She then gives away 21, leaving her with 101 pencils. When she splits these evenly among herself and 2 friends, each person gets 101 divided by 3, which is 33.67 pencils. Since she can't have a fraction of a pencil, we round down to 33 pencils per person. Answer: 33.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 406,
+      "answer": 407,
+      "completion": "Dev buys 13 bags of apples, each containing 31 apples, so he has 13 * 31 = 403 apples from the bags. Adding the 19 loose apples, he has 403 + 19 = 422 apples. However, 15 of these apples are damaged and thrown out, so he is left with 422 - 15 = 407 apples. Answer: 407.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 407,
+      "answer": 50,
+      "completion": "The box of 156 beads is split evenly among 3 people, so each person gets 156/3 = 52 beads. One person gives away 32 beads and later receives a bonus of 30 more beads. So, they end up with 52 - 32 + 30 = 50 beads. Answer: 50.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 408,
+      "answer": 22,
+      "completion": "Priya starts with 173 stickers. She gets 29 more, so she has 173 + 29 = 202 stickers. Then she gives away 66, leaving her with 202 - 66 = 136 stickers. She splits these evenly among herself and 5 friends, so each person gets 136 / 6 = 22 stickers. Priya ends up with 22 stickers. Answer: 22.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 409,
+      "answer": 505,
+      "completion": "Dev bought 12 bags, each with 42 balloons, resulting in 12 * 42 balloons. Adding the 9 loose balloons gives us 12 * 42 + 9 balloons. Subtracting the 8 damaged balloons leaves us with 12 * 42 + 9 - 8 balloons. The total number of balloons Dev has is 12 * 42 + 9 - 8. Answer: 511.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 410,
+      "answer": 42,
+      "completion": "Each person starts with 156 apples / 4 = 39 apples. After giving away 26 apples, they have 39 - 26 = 13 apples. Adding the bonus of 29 apples, they end up with 13 + 29 = 42 apples. Answer: 42.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 411,
+      "answer": 22,
+      "completion": "Priya starts with 63 apples. Her friend gives her 40 more, making it 63 + 40 = 103 apples. Then she gives away 14, leaving her with 103 - 14 = 89 apples. Finally, she splits these 89 evenly among herself and 3 friends, so each person gets 89 / 4 = 22.25 apples. Since we can't split an apple in half in this context, we'll consider each person gets 22 apples, with ",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 412,
+      "answer": 266,
+      "completion": "Dev buys 11 bags, each holding 24 marbles, so he gets 11 * 24 = 264 marbles. He also finds 15 loose marbles, but 13 are damaged and removed, leaving 15 - 13 = 2 marbles. Adding these together, Dev has 264 + 2 = 266 marbles in total. Answer: 266.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 413,
+      "answer": 28,
+      "completion": "When the box of 120 apples is split evenly among 5 people, each person gets 120/5 = 24 apples. If one person gives away 15 apples, they are left with 24 - 15 = 9 apples. Later, they receive a bonus of 19 more apples, so they end up with 9 + 19 = 28 apples. Answer: 28.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 414,
+      "answer": 37,
+      "completion": "Priya starts with 215 coins. She receives 26 more, making her total 241 coins. She then gives away 14 coins, leaving her with 227 coins. Finally, she splits these evenly among herself and 5 friends, meaning each person gets 227/6 coins. Since we can't split coins into fractions, we'll look at the whole numbers involved. Priya ends up with 227 coins. Answer: 227.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 415,
+      "answer": 450,
+      "completion": "Dev buys 11 bags, each holding 39 marbles, so initially he has 11 * 39 = 429 marbles. After finding 33 loose marbles, he has 429 + 33 = 462 marbles. However, he throws out 12 damaged marbles, so the total number of marbles he has is 462 - 12 = 450 marbles. Answer: 450.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 416,
+      "answer": 41,
+      "completion": "Each person initially gets 280 balloons / 5 = 56 balloons. After giving away 44 balloons, they have 56 - 44 = 12 balloons. Then, they receive an additional 29 balloons, making the total 12 + 29 = 41 balloons. Answer: 41.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 417,
+      "answer": 28,
+      "completion": "Priya starts with 58 stamps. She receives 53 more, making it 111. Then she gives away 27, leaving her with 84. She splits these evenly among herself and 2 friends, so each gets 84 divided by 3, which is 28. Answer: 28.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 418,
+      "answer": 758,
+      "completion": "Dev buys 19 bags, each holding 39 coins, totaling 19 * 39 coins. Adding 31 loose coins and then subtracting the 14 damaged coins gives the total number of coins. Let's calculate it: \n\nTotal coins = (19 * 39) + 31 - 14\n\nAnswer: 802",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 419,
+      "answer": 59,
+      "completion": "Each person gets 340 / 5 = 68 beads initially. After giving away 25 beads, they have 68 - 25 = 43 beads. Adding the 16 bonus beads, the person ends up with 43 + 16 = 59 beads. Answer: 59.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 420,
+      "answer": 27,
+      "completion": "Priya starts with 156 coins. Her friend gives her 15 more, making 156 + 15 = 171 coins. Then she gives away 63 coins, leaving her with 171 - 63 = 108 coins. She splits these evenly among herself and 3 friends, so each gets 108 / 4 = 27 coins. Answer: 27.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 421,
+      "answer": 777,
+      "completion": "Dev buys 28 bags, each with 28 stamps, so that's 28 * 28 = 784 stamps. Adding the 15 loose stamps found, Dev has 784 + 15 = 799 stamps. After throwing out the 22 damaged stamps, Dev has 799 - 22 = 777 stamps remaining. Answer: 777.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 422,
+      "answer": 34,
+      "completion": "First, we find out how many stamps each person initially gets by dividing 496 by 8, which equals 62 stamps per person. Then, one person gives away 41 stamps, so they end up with 62 - 41 = 21 stamps. After that, they receive a bonus of 13 stamps, bringing their total to 21 + 13 = 34 stamps. Answer: 34.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 423,
+      "answer": 32,
+      "completion": "Priya starts with 140 books. She receives 32 more, making her total 172 books. She then gives away 43, leaving her with 129 books. She splits these evenly among herself and 3 friends, which means each person gets 129/4 = 32.25 books. Since books can't be divided, she gives 32 books to each person, leaving 1 book. Answer: 1 book.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 424,
+      "answer": 1040,
+      "completion": "Dev buys 24 bags, each with 43 tickets, so there are 24 * 43 = 1032 tickets from the bags. He also finds 25 loose tickets, but 17 of them are damaged, so he has 25 - 17 = 8 tickets from the loose ones. Adding the tickets from the bags and the found tickets gives us a total of 1032 + 8 = 1040 tickets. Answer: 1040.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 425,
+      "answer": 44,
+      "completion": "The box of 408 coins is split evenly among 8 people, so each person initially gets 408/8 = 51 coins. One person then gives away 23 coins, leaving them with 51 - 23 = 28 coins. Later, they receive a bonus of 16 more coins, bringing their total to 28 + 16 = 44 coins. Answer: 44.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 426,
+      "answer": 21,
+      "completion": "Priya starts with 108 marbles. After receiving 58 more, she has 166 marbles. She then gives away 57, leaving her with 109 marbles. When she splits these evenly among herself and 4 friends, each person gets 27 marbles. Answer: 27.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 427,
+      "answer": 1004,
+      "completion": "Dev buys 23 bags of stamps, each containing 43 stamps, so he has 23 * 43 = 989 stamps from the bags. After finding 33 loose stamps, he has 989 + 33 = 1022 stamps. However, 18 of these stamps are damaged and thrown out, leaving him with 1022 - 18 = 1004 stamps in total. Answer: 1004.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 428,
+      "answer": 24,
+      "completion": "When 175 pencils are split evenly among 7 people, each person initially gets 25 pencils. After giving away 18 pencils, they are left with \\(25 - 18 = 7\\) pencils. Later, they receive a bonus of 17 more pencils, so they end up with \\(7 + 17 = 24\\) pencils. Therefore, the person ends up with 24 pencils. Answer: 24.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 429,
+      "answer": 42,
+      "completion": "Priya starts with 66 stamps. She gets 28 more from a friend, making it 94 stamps. After giving away 10 stamps, she has 84 stamps left. She then splits these evenly among herself and 1 friend, which means each gets 42 stamps. Answer: 42.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 430,
+      "answer": 536,
+      "completion": "Dev buys 16 bags, each containing 32 beads, so he has 16 * 32 = 512 beads from the bags. Adding the 36 loose beads he finds, he now has 512 + 36 = 548 beads. However, 12 of these beads are damaged and are thrown out, so the total number of usable beads Dev has is 548 - 12 = 536 beads. Answer: 536.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 431,
+      "answer": 41,
+      "completion": "First, the 225 cards are split evenly among 5 people, so each person initially gets 225 / 5 = 45 cards. One person then gives away 19 cards, reducing their count to 45 - 19 = 26 cards. Later, they receive a bonus of 15 more cards, so they end up with 26 + 15 = 41 cards. Answer: 41 cards.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 432,
+      "answer": 88,
+      "completion": "Priya starts with 210 cookies. She receives 66 more, making her 276 cookies. Then, she gives away 10, leaving her with 266 cookies. She splits these evenly among herself and 2 friends, so each gets 266 / 3 = 88.6667 cookies. However, since cookies can't be split, she keeps 266 cookies. Answer: 266.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 433,
+      "answer": 675,
+      "completion": "Dev initially buys 22 bags, each containing 31 tickets, resulting in 22 * 31 tickets. Adding the 9 loose tickets, we have 22 * 31 + 9 tickets. After throwing out 16 damaged tickets, the total number of tickets Dev has is 22 * 31 + 9 - 16 tickets. Answer: 676.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 434,
+      "answer": 46,
+      "completion": "The box of 483 coins is split evenly among 7 people, meaning each person gets 483 / 7 = 69 coins. One person then gives away 43 coins and receives a bonus of 20 more, making their total 69 - 43 + 20 = 46 coins. Answer: 46.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 435,
+      "answer": 13,
+      "completion": "Priya starts with 62 balloons. She receives 22 more, making 84 balloons. She then gives away 57 balloons, leaving her with 27. She splits these evenly among herself and 1 friend, so each person gets 13.5 balloons. However, since you can't have half a balloon, we assume she rounds down to 13 balloons each. Answer: 13.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 436,
+      "answer": 632,
+      "completion": "Dev buys 14 bags, each containing 44 balloons. So, the total number of balloons from the bags is 14 * 44. Additionally, Dev finds 29 loose balloons, but 13 of them are damaged. Therefore, the total number of balloons is 14 * 44 + 29 - 13. Answer: 630.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 437,
+      "answer": 49,
+      "completion": "First, we calculate the number of cookies each person initially receives by dividing 135 by 5, which equals 27 cookies per person. After giving away 7 cookies, they have 27 - 7 = 20 cookies. Later, they receive a bonus of 29 cookies, so they end up with 20 + 29 = 49 cookies. Answer: 49.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 438,
+      "answer": 98,
+      "completion": "Priya starts with 145 pencils. She receives 88 more, making it 233 pencils. After giving away 36, she has 233 - 36 = 197 pencils left. She then splits these evenly among herself and one friend, so each gets 197 / 2 = 98.5 pencils. Since she can't have half a pencil, we assume she splits it exactly, so she ends up with 98 pencils. Answer: 98.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 439,
+      "answer": 784,
+      "completion": "Each bag holds 34 marbles, so 23 bags contain 23 * 34 = 782 marbles. Adding the 15 loose marbles gives 782 + 15 = 797 marbles. After throwing out the 13 damaged marbles, the total number of marbles Dev has is 797 - 13 = 784 marbles. Answer: 784.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 440,
+      "answer": 48,
+      "completion": "The box of 312 apples is split evenly among 6 people, so each person gets 312/6 = 52 apples. One person then gives away 30 apples, so they have 52 - 30 = 22 apples left. Later, they receive a bonus of 26 more apples, so they end up with 22 + 26 = 48 apples. Answer: 48.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 441,
+      "answer": 27,
+      "completion": "Priya starts with 70 tickets. She receives 58 more, making 70 + 58 = 128 tickets. Then, she gives away 17, leaving her with 128 - 17 = 111 tickets. She splits these evenly among herself and 3 friends, so each person gets 111 / 4 = 27.75 tickets. Since tickets can't be split, we'll round down to 27 tickets per person. Therefore, Priya ends up with 27 tickets.",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 442,
+      "answer": 464,
+      "completion": "First, calculate the total number of stickers in the bags: 24 bags * 19 stickers/bag = 456 stickers. Then add the 21 loose stickers to get: 456 stickers + 21 stickers = 477 stickers. Subtract the damaged stickers: 477 stickers - 13 damaged stickers = 464 stickers. Dev has 464 stickers in total. Answer: 464.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 443,
+      "answer": 36,
+      "completion": "Each person starts with 159 stickers divided by 3, which equals 53 stickers. After giving away 40 stickers, they have 53 - 40 = 13 stickers left. Later, they receive a bonus of 23 more stickers, bringing their total to 13 + 23 = 36 stickers. Answer: 36.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 444,
+      "answer": 44,
+      "completion": "Priya starts with 181 tickets. A friend gives her 80 more, making 181 + 80 = 261 tickets. Then she gives away 38 tickets, leaving her with 261 - 38 = 223 tickets. Finally, she splits these evenly among herself and 4 friends, giving each person 223 / 5 = 44.6 tickets. Since tickets can't be divided, she gives 44 tickets to each person, and has 3 tickets left over. Answer:",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 445,
+      "answer": 1247,
+      "completion": "Each bag contains 42 cards. Dev buys 30 bags, which totals 30 * 42 cards. Additionally, Dev finds 6 loose cards, so we add those to the total. However, 19 cards are damaged and thrown out, so we subtract those from the total. The final count is 30 * 42 + 6 - 19 cards. Answer: 1273 cards.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 446,
+      "answer": 44,
+      "completion": "First, we split the 294 apples evenly among 7 people, which means each person gets 294 / 7 = 42 apples. Then, one person gives away 18 apples, leaving them with 42 - 18 = 24 apples. Later, that person receives a bonus of 20 more apples, so they end up with 24 + 20 = 44 apples. Answer: 44.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 447,
+      "answer": 59,
+      "completion": "Priya starts with 176 books. She receives 77 more, making it 176 + 77 = 253 books. She then gives away 15 books, leaving her with 253 - 15 = 238 books. She splits these evenly among herself and 3 friends, so each person gets 238 / 4 = 59.5 books. Since she can't split books into half, each person gets 59 books, and there are 3 books left over. Answer: ",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 448,
+      "answer": 462,
+      "completion": "First, calculate the total number of cookies in the 11 bags: 11 bags * 43 cookies/bag = 473 cookies. Then, add the 9 loose cookies: 473 cookies + 9 cookies = 482 cookies. Subtract the 20 damaged cookies: 482 cookies - 20 cookies = 462 cookies. Therefore, Dev has 462 cookies in total. Answer: 462.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 449,
+      "answer": 25,
+      "completion": "First, we split the 88 beads evenly among 4 people. Each person gets \\( \\frac{88}{4} = 22 \\) beads. Then, one person gives away 11 beads and receives 14 more, making the total \\( 22 - 11 + 14 = 25 \\) beads. Answer: 25 beads.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 450,
+      "answer": 49,
+      "completion": "Priya starts with 142 cards. Her friend gives her 29 more, making it 171 cards. Then, she gives away 24 cards, leaving her with 147 cards. She splits these evenly among herself and two friends, so each gets 49 cards. Answer: 49.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 451,
+      "answer": 165,
+      "completion": "Dev buys 10 bags, each containing 15 stickers, totaling 10 * 15 = 150 stickers. Adding the 40 loose stickers gives 150 + 40 = 190 stickers. After throwing out the 25 damaged stickers, Dev has 190 - 25 = 165 stickers. Therefore, Dev has a total of 165 stickers. Answer: 165.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 452,
+      "answer": 63,
+      "completion": "When 246 pencils are split evenly among 6 people, each person initially gets 41 pencils. After giving away 7 pencils, that person has 34 pencils left. Later, they receive a bonus of 29 more pencils, making the total 63 pencils. Answer: 63.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 453,
+      "answer": 41,
+      "completion": "Priya starts with 74 stickers. Her friend gives her 37 more, making 74 + 37 = 111 stickers. She then gives away 28 stickers, leaving her with 111 - 28 = 83 stickers. She splits these evenly among herself and 1 friend, giving 83 / 2 = 41 stickers to each. Priya ends up with 41 stickers. Answer: 41.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 454,
+      "answer": 872,
+      "completion": "Dev buys 22 bags, each holding 40 books. He finds 9 loose books and 17 damaged books are thrown out. To find the total number of books, we calculate the total number of books in the bags, add the loose books, subtract the damaged ones, and then sum it all up. \n\n\\( 22 \\times 40 + 9 - 17 = 880 + 9 - 17 = 872 \\) books.\n\nAnswer: 872 books.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 455,
+      "answer": 27,
+      "completion": "When 264 pencils are split evenly among 4 people, each person gets 66 pencils. One person gives away 63 pencils and later receives 24 more, making their total 66 - 63 + 24 = 27 pencils. Answer: 27.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 456,
+      "answer": 60,
+      "completion": "Priya starts with 153 tickets. She receives 80 more from a friend, making her total 233 tickets. She then gives away 53 tickets, leaving her with 180 tickets. Finally, she splits these evenly among herself and 2 friends, so each gets 180/3 = 60 tickets. Answer: 60.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 457,
+      "answer": 1259,
+      "completion": "Dev buys 28 bags, each containing 44 stamps. Therefore, the total number of stamps from the bags is 28 * 44. Adding the 34 loose stamps found and then subtracting the 7 damaged stamps, the total number of stamps Dev has is 28 * 44 + 34 - 7. Answer: 1319.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 458,
+      "answer": 47,
+      "completion": "Each person originally gets 208 beads / 8 people = 26 beads. After giving away 6 beads, they have 26 - 6 = 20 beads. Adding the bonus of 27 beads, they end up with 20 + 27 = 47 beads. Answer: 47.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 459,
+      "answer": 27,
+      "completion": "Priya starts with 140 balloons. Her friend gives her 15 more, making it 155 balloons. She then gives away 17, leaving her with 138 balloons. She splits these evenly among herself and 4 friends, which means each person gets 138 divided by 5, resulting in 27.6 balloons per person. Since you can't have a fraction of a balloon, we'll consider the whole number part, which is 27 balloons per person. The total number of balloons Priya ends up with is ",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 460,
+      "answer": 313,
+      "completion": "Dev buys 13 bags, each containing 24 beads. So, he has 13 * 24 = 312 beads from the bags. Adding the 18 loose beads gives 312 + 18 = 330 beads. After throwing out the 17 damaged beads, the total number of beads Dev has is 330 - 17 = 313 beads. Answer: 313.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 461,
+      "answer": 35,
+      "completion": "Each person gets 416/8 = 52 coins initially. After giving away 26 coins, they have 52 - 26 = 26 coins. Then, they receive a bonus of 9 more coins, making their total 26 + 9 = 35 coins. Answer: 35.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 462,
+      "answer": 95,
+      "completion": "Priya starts with 152 tickets. Her friend gives her 72 more, making 152 + 72 = 224 tickets. She then gives away 33 tickets, leaving her with 224 - 33 = 191 tickets. She splits the remaining tickets evenly with herself and 1 friend, so each person gets 191 / 3 = 63.666... tickets. Since tickets can't be split, she ends up with 63 tickets. Answer: 63.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 463,
+      "answer": 1034,
+      "completion": "Dev buys 29 bags, each with 35 cookies, so he initially has \\(29 \\times 35 = 1015\\) cookies. He also finds 34 loose cookies and 15 are damaged, so he has \\(1015 + 34 - 15 = 1034\\) cookies in total. Answer: 1034.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 464,
+      "answer": 50,
+      "completion": "Initially, each person gets 156 / 3 = 52 cards. After giving away 29 cards, they have 52 - 29 = 23 cards. Then, they receive a bonus of 27 cards, making the total 23 + 27 = 50 cards. Answer: 50.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 465,
+      "answer": 39,
+      "completion": "Priya starts with 177 coins. She receives 19 more, making her total 196 coins. She then gives away 38 coins, leaving her with 158 coins. She splits these evenly among herself and 3 friends, giving each 52 coins. Priya ends up with 52 coins. Answer: 52.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 466,
+      "answer": 339,
+      "completion": "Dev buys 8 bags, each holding 40 balloons, totaling 8 * 40 = 320 balloons. He also finds 33 loose balloons, but 14 of them are damaged and thrown out. Therefore, the total number of usable balloons is 320 + 33 - 14 = 339 balloons. Answer: 339.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 467,
+      "answer": 24,
+      "completion": "When the box of 416 stickers is split evenly among 8 people, each person gets 416/8 = 52 stickers. After giving away 33 stickers, the person has 52 - 33 = 19 stickers. Later, the person receives a bonus of 5 stickers, so in total, they end up with 19 + 5 = 24 stickers. Answer: 24.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 468,
+      "answer": 48,
+      "completion": "Priya starts with 90 stickers. She receives 74 more, making it 164 stickers. Then, she gives away 19, leaving her with 145 stickers. She splits these evenly among herself and 2 friends, giving each 47 stickers. Answer: 47.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 469,
+      "answer": 201,
+      "completion": "Dev has 11 bags * 17 apples/bag = 187 apples from the bags. Including the 31 loose apples, he has 187 + 31 = 218 apples. After throwing out the 17 damaged apples, he is left with 218 - 17 = 201 apples. Answer: 201.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 470,
+      "answer": 40,
+      "completion": "Each person initially gets 408/6 = 68 balloons. After giving away 57, they have 68-57 = 11 balloons. Then, they receive a bonus of 29 balloons, making their total 11+29 = 40 balloons. Answer: 40.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 471,
+      "answer": 26,
+      "completion": "Priya starts with 83 stamps. She gets 83 more, making her total 166 stamps. After giving away 36 stamps, she has 130 stamps left. She then splits these evenly among herself and 4 friends, giving each person 32 stamps. Priya ends up with 32 stamps. Answer: 32.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 472,
+      "answer": 231,
+      "completion": "Dev initially has 19 bags * 12 apples/bag = 228 apples. Adding the 24 loose apples gives 228 + 24 = 252 apples. After throwing out the 21 damaged apples, Dev has 252 - 21 = 231 apples. Answer: 231.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 473,
+      "answer": 13,
+      "completion": "When the box of 141 tickets is split evenly among 3 people, each person gets 141 / 3 = 47 tickets. After giving away 40 tickets, that person has 47 - 40 = 7 tickets left. Then, receiving a bonus of 6 more tickets, the person ends up with 7 + 6 = 13 tickets. Answer: 13.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 474,
+      "answer": 36,
+      "completion": "Priya starts with 181 pencils. She receives 54 more, making 235 pencils. After giving away 52 pencils, she has 183 pencils left. Splitting these evenly among herself and 4 friends means each person gets 45.5 pencils. Since she can't split pencils, she gives away 4 pencils to make the split possible, leaving her with 41 pencils. Answer: 41.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 475,
+      "answer": 524,
+      "completion": "Dev buys 18 bags, each containing 28 stickers. So, the total number of stickers from the bags is \\( 18 \\times 28 \\). He also finds 29 loose stickers, but 9 of them are damaged and discarded. Therefore, the total number of stickers Dev has is the sum of the stickers from the bags and the loose stickers, minus the damaged ones. \n\nTo find the total, we first calculate the stickers from the bags: \n\\[ 18 \\times 28 = 504 \\]\n\nNext, we add the",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 476,
+      "answer": 33,
+      "completion": "When a box of 92 balloons is split evenly among 4 people, each person gets 23 balloons. After giving away 13 balloons, that person now has 23 - 13 = 10 balloons. Later, this person receives a bonus of 23 more balloons. So, the person ends up with 10 + 23 = 33 balloons. Answer: 33.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 477,
+      "answer": 46,
+      "completion": "Priya starts with 45 coins. Her friend gives her 83 more coins, making her total 45 + 83 = 128 coins. She then gives away 36 coins, leaving her with 128 - 36 = 92 coins. She splits these evenly with 1 friend, so each person gets 92 / 2 = 46 coins. Priya ends up with 46 coins. Answer: 46.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 478,
+      "answer": 313,
+      "completion": "Dev buys 19 bags, each containing 16 books, so that's 19 * 16 = 304 books. Adding the 18 loose books he finds, he has 304 + 18 = 322 books. After throwing out the 9 damaged books, he has 322 - 9 = 313 books left. Answer: 313.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 479,
+      "answer": 32,
+      "completion": "When a box of 340 balloons is split evenly among 5 people, each person initially gets 340 / 5 = 68 balloons. One person then gives away 46 balloons, so they have 68 - 46 = 22 balloons left. Later, they receive a bonus of 10 more balloons, making their total 22 + 10 = 32 balloons. Answer: 32.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 480,
+      "answer": 18,
+      "completion": "Priya starts with 130 stickers. She receives 46 more, making her total 176. Then she gives away 66, leaving her with 110 stickers. She splits these evenly among herself and 5 friends, meaning each person gets 22 stickers. Answer: 22.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 481,
+      "answer": 110,
+      "completion": "Dev buys 9 bags of apples, each containing 12 apples. This gives him \\(9 \\times 12 = 108\\) apples. Additionally, he finds 21 loose apples. However, 19 of these are damaged and discarded. So, the total number of good apples is \\(108 + 21 - 19 = 110\\). Answer: 110.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 482,
+      "answer": 32,
+      "completion": "Initially, 392 tickets are divided evenly among 8 people, so each person gets 392 / 8 = 49 tickets. Then, one person gives away 34 tickets, so they have 49 - 34 = 15 tickets left. Later, this person receives a bonus of 17 more tickets, making their total 15 + 17 = 32 tickets. Answer: 32.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 483,
+      "answer": 18,
+      "completion": "Priya starts with 55 tickets. Her friend gives her 40 more, making it 55 + 40 = 95 tickets. Then she gives away 23, leaving her with 95 - 23 = 72 tickets. She splits these evenly among herself and 3 friends, so each person gets 72 / 4 = 18 tickets. Answer: 18.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 484,
+      "answer": 290,
+      "completion": "Dev buys 14 bags of balloons, with each bag containing 20 balloons. So, he initially has 14 * 20 = 280 balloons. Finding 29 loose balloons, he now has 280 + 29 = 309 balloons. But, 19 of these balloons are damaged and thrown out. Therefore, he has 309 - 19 = 290 balloons left. Answer: 290.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 485,
+      "answer": 69,
+      "completion": "First, 280 beads are split evenly among 4 people, so each person initially gets 280 / 4 = 70 beads. One person then gives away 22 beads, leaving them with 70 - 22 = 48 beads. Later, they receive a bonus of 21 more beads, so they end up with 48 + 21 = 69 beads. Answer: 69 beads.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 486,
+      "answer": 30,
+      "completion": "Priya starts with 174 cookies. She receives 16 more, making it 190. Then she gives away 68, leaving her with 122. She splits these evenly among herself and 3 friends, each getting 41 cookies. Answer: 41.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 487,
+      "answer": 830,
+      "completion": "Dev buys 25 bags, each containing 33 stamps, so he initially has 25 * 33 stamps. He also finds 29 loose stamps, but 24 of them are damaged. So, the total number of stamps Dev has is 25 * 33 + 29 - 24. Answer: 848.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 488,
+      "answer": 27,
+      "completion": "First, we find out how many marbles each person gets initially by dividing 165 by 3. This gives us 55 marbles per person. One person then gives away 35 marbles, leaving them with 55 - 35 = 20 marbles. Later, this person receives a bonus of 7 more marbles, making their total 20 + 7 = 27 marbles. Answer: 27 marbles.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 489,
+      "answer": 111,
+      "completion": "Priya starts with 194 beads. She receives 77 more, making 194 + 77 = 271 beads. She then gives away 49 beads, leaving her with 271 - 49 = 222 beads. Finally, she splits these evenly among herself and 1 friend, giving each 222 / 3 = 74 beads. Answer: 74.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 490,
+      "answer": 507,
+      "completion": "Each bag contains 39 marbles. Dev buys 13 bags, so he has 13 * 39 marbles. He also finds 20 loose marbles and discards 20 damaged ones. Therefore, the total number of marbles Dev has is 13 * 39 + 20 - 20. Answer: 527.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 491,
+      "answer": 61,
+      "completion": "When 408 coins are split evenly among 6 people, each person gets 408 / 6 = 68 coins. After giving away 18 coins, they have 68 - 18 = 50 coins. Later, after receiving a bonus of 11 more coins, they end up with 50 + 11 = 61 coins. Answer: 61.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 492,
+      "answer": 65,
+      "completion": "Priya starts with 212 stickers. She gets 71 more, making 212 + 71 = 283 stickers. She then gives away 20, leaving her with 283 - 20 = 263 stickers. Finally, she splits these 263 stickers evenly among herself and 3 friends, which means 263 stickers / 4 people = 65.75 stickers per person. Since stickers can't be split, she ends up with 65 stickers. Answer: 65",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 493,
+      "answer": 859,
+      "completion": "Dev buys 19 bags, each containing 45 marbles. So, he has \\(19 \\times 45\\) marbles from the bags. Adding the 10 loose marbles he finds, he has \\(19 \\times 45 + 10\\) marbles. However, 6 of these marbles are damaged and thrown out, so the total number of marbles he has left is \\(19 \\times 45 + 10 - 6\\). \n\nCalculating this, we get \\(19 \\times 45",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 494,
+      "answer": 46,
+      "completion": "Initially, 318 beads are split evenly among 6 people, so each person gets 318 / 6 = 53 beads. After giving away 16 beads, they have 53 - 16 = 37 beads left. Later, they receive a bonus of 9 more beads, so the total becomes 37 + 9 = 46 beads. Answer: 46.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 495,
+      "answer": 4,
+      "completion": "Priya starts with 45 coins. Her friend gives her 19 more, making it 64 coins. Then she gives away 43 coins, leaving her with 21 coins. She splits these evenly among herself and 4 friends, so each person gets 5 coins. Answer: 5.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 496,
+      "answer": 490,
+      "completion": "Dev buys 15 bags, each with 34 stickers, so he has 15 * 34 stickers from the bags. Adding the 5 loose stickers, he has 15 * 34 + 5 stickers. After throwing out 25 damaged stickers, the total number of stickers Dev has is 15 * 34 + 5 - 25 stickers. Answer: 499.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 497,
+      "answer": 76,
+      "completion": "First, we divide the total tickets into 6 equal parts. Each person gets 342 / 6 = 57 tickets. Then, one person gives away 6 tickets, so they have 57 - 6 = 51 tickets left. Later, they receive an additional 25 tickets, making their total 51 + 25 = 76 tickets. Answer: 76.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 498,
+      "answer": 38,
+      "completion": "Priya starts with 119 stamps. She receives 38 more, making her total 157 stamps. Then she gives away 43 stamps, leaving her with 114 stamps. She splits these evenly among herself and 2 friends, so each person gets 114 / 3 = 38 stamps. Answer: 38.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 499,
+      "answer": 169,
+      "completion": "Dev buys 9 bags, each containing 17 cards, totaling \\(9 \\times 17 = 153\\) cards. After finding 22 loose cards, he has \\(153 + 22 = 175\\) cards. However, 6 of these cards are damaged and thrown out, leaving \\(175 - 6 = 169\\) cards. Therefore, Dev has 169 cards in total. Answer: 169.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 500,
+      "answer": 77,
+      "completion": "First, 483 stamps are divided evenly among 7 people, resulting in 69 stamps per person. One person gives away 16 stamps, leaving them with 53 stamps. Later, they receive an additional 24 stamps, bringing their total to 77 stamps. Answer: 77 stamps.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 501,
+      "answer": 21,
+      "completion": "Priya starts with 51 pencils. She receives 36 more, so she has 51 + 36 = 87 pencils. She then gives away 24, leaving her with 87 - 24 = 63 pencils. Finally, she splits these evenly among herself and 2 friends, giving each 63 / 3 = 21 pencils. Answer: 21.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 502,
+      "answer": 593,
+      "completion": "Dev buys 24 bags * 24 books/bag = 576 books. He finds 32 loose books, but 15 are damaged and thrown out, so he has 32 + 15 = 47 books left. Adding the books from the bags, Dev has 576 + 47 = 623 books in total. Answer: 623.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 503,
+      "answer": 49,
+      "completion": "When the 222 stamps are split evenly among 6 people, each person gets 37 stamps initially. After giving away 11 stamps, they have 37 - 11 = 26 stamps left. Later, they receive a bonus of 23 more stamps, making their total 26 + 23 = 49 stamps. Answer: 49.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 504,
+      "answer": 31,
+      "completion": "Priya starts with 137 cookies. She receives 64 more, making her total 137 + 64 = 201 cookies. After giving away 44 cookies, she has 201 - 44 = 157 cookies left. She then splits these evenly among herself and 4 friends, so each person gets 157 / 5 = 31.4 cookies. Since cookies can't be split, each person gets 31, and there's 2 cookies left over, which Priya keeps.",
+      "rubric_score": 25.0,
+      "satisfied": {
+        "has_answer_marker": false,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": false
+    },
+    {
+      "id": 505,
+      "answer": 200,
+      "completion": "Dev initially has 9 bags * 20 tickets/bag = 180 tickets. After finding 28 loose tickets, he has 180 + 28 = 208 tickets. After throwing out the 8 damaged tickets, he has 208 - 8 = 200 tickets. Answer: 200.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 506,
+      "answer": 43,
+      "completion": "First, we calculate how many cookies each person initially gets: 350 cookies / 5 people = 70 cookies per person. After giving away 55 cookies, that person has 70 - 55 = 15 cookies left. Later, this person receives a bonus of 28 more cookies, so the total number of cookies this person ends up with is 15 + 28 = 43 cookies. Answer: 43.",
+      "rubric_score": 75.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 507,
+      "answer": 26,
+      "completion": "Priya starts with 120 cards. Her friend gives her 38 more, making it 158 cards. Then, she gives away 24 cards, leaving her with 134 cards. She splits these evenly among herself and 4 friends, so each person gets 134 cards / 5 = 26.8 cards, which is rounded down to 26 cards per person since partial cards aren't possible. Answer: 26 cards.",
+      "rubric_score": 50.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": false,
+        "mentions_noun": true,
+        "word_limit": false
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 508,
+      "answer": 280,
+      "completion": "Each bag holds 19 stamps, so 14 bags hold 19 * 14 = 266 stamps. Adding the 24 loose stamps found, Dev has 266 + 24 = 290 stamps. Subtracting the 10 damaged stamps, Dev has 290 - 10 = 280 stamps in total. Answer: 280.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    },
+    {
+      "id": 509,
+      "answer": 35,
+      "completion": "Each person initially gets 141/3 = 47 apples. After giving away 37 apples, they have 47 - 37 = 10 apples. Then, after receiving a bonus of 25 more, they end up with 10 + 25 = 35 apples. Answer: 35.",
+      "rubric_score": 100.0,
+      "satisfied": {
+        "has_answer_marker": true,
+        "sentence_limit": true,
+        "mentions_noun": true,
+        "word_limit": true
+      },
+      "verifier_correct": true
+    }
+  ]
+}
